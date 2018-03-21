@@ -12,7 +12,7 @@
 * [Front-end-Developer-Interview-Questions（英文）](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 *  [android_interview（计算机网络，操作系统部分）](https://github.com/LRH1993/android_interview)
-
+* [整理的前端面试的东西](http://blog.csdn.net/qq1024884152/article/details/72831214)
 ## 附加
 ### 当你在浏览器中输入 google.com 并且按下回车之后发生了什么？
 *  [skyline75489 / what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN)
