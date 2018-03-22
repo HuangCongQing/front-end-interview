@@ -25,6 +25,38 @@
 * [*LeetCode* - The World's Leading Online Programming Learning ..](http://leetcode.com/)
 * [国内有哪些好的刷题网站?-知乎](https://www.zhihu.com/question/25574458)
 
+## 简历相关文章
+
+1. https://www.zhihu.com/question/23150301
+2. http://tgideas.qq.com/webplat/info/news_version3/804/7104/7106/m5723/201506/351670.shtml
+3. https://www.zhihu.com/question/39486348
+4. https://www.jianshu.com/p/c79b6a2b1c2b
+
+## 面试相关文章
+
+[BAT *前端*工程师*面试*对*算法*一般有怎样的要求? - 知乎](https://www.zhihu.com/question/28578899)
+
+[学生党成功拿到阿里技术offer：面Java开发，却是C++考官，几个意思？](https://yq.aliyun.com/articles/6393)
+
+[学生党如何拿到阿里技术offer：《阿里实习生面试经验（成功）》](https://yq.aliyun.com/articles/6395)
+
+[学生党如何拿到阿里技术offer：《阿里面试经历-2014.4.18研发实习生面试经历（失败）》](https://yq.aliyun.com/articles/6655)
+
+[学生党如何拿到阿里技术offer： 《阿里巴巴常考面试题及汇总答案（Java方向）上篇》 ](https://yq.aliyun.com/articles/6656)
+
+[学生党如何拿到阿里技术offer： 《阿里巴巴常考面试题及汇总答案（Java方向）下篇》](https://yq.aliyun.com/articles/7468)
+
+[学生党如何拿到阿里技术offer：《阿里面试（失败+成功）》 ](https://yq.aliyun.com/articles/6806)
+
+[学生党如何拿到阿里技术offer： 《2016阿里巴巴校招内推offer之Java研发工程师（成功）》](https://yq.aliyun.com/articles/6807)
+
+[学生党如何拿到阿里技术offer：《阿里面试（失败）》](https://yq.aliyun.com/articles/6824)
+
+[学生党如何拿到阿里技术offer：《阿里面试（成功）》](https://yq.aliyun.com/articles/6825)
+
+
+
+
 ## 许可协议
 
 本项目全部内容遵守 [MIT 许可协议](https://github.com/HuangCongQing/front-end-interview/blob/master/LICENSE).
