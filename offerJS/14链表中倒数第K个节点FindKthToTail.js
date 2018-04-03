@@ -8,22 +8,34 @@
 function ListNode(x){
     this.val = x;
     this.next = null;
-}
-function FindKthToTail(head, k)
-{
-    if(head==null||k<=0) return null;
-    var p1 = head,
-        p2 = head;
-    while(k > 0 && p1){
-        k -=1;
-        p1 = p1.next;
+// }
+// function FindKthToTail(head, k)
+// {
+//     if(head==null||k<=0) return null;
+//     var p1 = head,
+//         p2 = head;
+//     while(k > 0 && p1){
+//         k -=1;
+//         p1 = p1.next;
+//     }
+//     while(p1){
+//         p1 = p1.next;
+//         p2 = p2.next;
+//     }
+//     return p2;
+// }
+function FindKthToTail(head, k) {
+    if (head == null) {
+        return false;
     }
-    while(p1){
-        p1 = p1.next;
-        p2 = p2.next;
+    var currNode = head;
+    var arr = [];
+    while (currNode != null) {
+        arr.push(currNode);
+        currNode = currNode.next;
     }
-    return p2;
-}
+    return arr[arr.length - k];
+}    
 module.exports = {
     FindKthToTail : FindKthToTail
 };
