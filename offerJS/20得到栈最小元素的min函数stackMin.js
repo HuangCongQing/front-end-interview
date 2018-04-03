@@ -2,7 +2,7 @@
 定义栈的数据结构，请在该类型中实现一个能够得到栈最小元素的min函数。
 */
 //stack[0]是顶 stakc.[stack.length]是底
-var stack = [];
+var stack = []; // 定义一个栈
 function push(node)
 {
     // write code here
