@@ -58,7 +58,8 @@
 
 [学生党如何拿到阿里技术offer：《阿里面试（成功）》](https://yq.aliyun.com/articles/6825)
 
-
+## Others
+* [jobbole/awesome-programming-books经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
 
 
 ## 许可协议
