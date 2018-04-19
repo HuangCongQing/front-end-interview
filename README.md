@@ -13,6 +13,14 @@
 
 *  [android_interview（计算机网络，操作系统部分）](https://github.com/LRH1993/android_interview)
 * [整理的前端面试的东西](http://blog.csdn.net/qq1024884152/article/details/72831214)
+
+## 基础面试题
+
+*  [超全整理*前端*开发*面试题*——*CSS*篇(2016年)](http://www.360doc.com/content/16/0901/17/35307855_587570473.shtml)
+* [*前端*基础*面试题*(*HTML*+*CSS*部分)](https://zhuanlan.zhihu.com/p/28415923)
+* [*前端*开发*面试题*汇总【*HTML*&*CSS*部分】-极客](http://geek.csdn.net/news/detail/239985)
+* [前端面试题 ----css篇](http://www.cnblogs.com/zhangshuda/p/8465043.html)
+
 ## 附加
 ### 当你在浏览器中输入 google.com 并且按下回车之后发生了什么？
 *  [skyline75489 / what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN)
