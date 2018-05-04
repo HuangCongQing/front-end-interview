@@ -36,6 +36,11 @@
 * [*LeetCode* - The World's Leading Online Programming Learning ..](http://leetcode.com/)
 * [国内有哪些好的刷题网站?-知乎](https://www.zhihu.com/question/25574458)
 
+## 编程题
+
+* [剑指 offer -- JavaScript 版牛客网](https://zhuanlan.zhihu.com/p/31938189)
+
+
 ## 简历·相关文章
 
 1. https://www.zhihu.com/question/23150301
