@@ -40,6 +40,13 @@
 
 * [剑指 offer -- JavaScript 版牛客网](https://zhuanlan.zhihu.com/p/31938189)
 
+## JS常用算法
+
+*  [*js*中一些*常用*的*算法* - CSDN博客](https://blog.csdn.net/qq_38844939/article/details/76864573)
+*  [*js*中*常见算法*](https://www.cnblogs.com/createGod/p/6843350.html)
+* [*JS常见的算法* - 奔跑的蜗牛~ - 博客园](https://www.cnblogs.com/lvmylife/p/7208541.html)
+*  [前端*常见算法*的*JS*实现 - 每天学点前端开发 - SegmentFault 思否](https://segmentfault.com/a/1190000008593715)
+
 
 ## 简历·相关文章
 
