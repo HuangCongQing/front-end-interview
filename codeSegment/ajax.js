@@ -5,6 +5,13 @@
 // 4 － （完成）响应内容解析完成，可以在客户端调用了
 // 对于readyState的这五种状态
 
+// AJAX的核心是XMLHttpRequest。
+// 一个完整的AJAX请求一般包括以下步骤：
+// 实例化XMLHttpRequest对象
+// 连接服务器
+// 发送请求
+// 接收响应数据
+
 var xmlhttp = null;//声明一个变量，用来实例化XMLHttpRequest对象
 if (window.XMLHttpRequest) {
     xmlhttp = new XMLHttpRequest();// 新版本的浏览器可以直接创建XMLHttpRequest对象
