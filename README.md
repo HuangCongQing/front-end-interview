@@ -38,6 +38,8 @@
 
 ## 编程题
 
+* [《编程之法：面试和算法心得》](https://legacy.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details)
+
 * [剑指 offer -- JavaScript 版牛客网](https://zhuanlan.zhihu.com/p/31938189)
 
 ## JS常用算法
