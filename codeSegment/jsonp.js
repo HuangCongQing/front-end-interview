@@ -8,7 +8,7 @@
 
 
 
-
+// https://beyondouyuan.github.io/blog/2017/08/06/js-ajax-jsonp-part2/
 function jsonp(options) {
     options = options || {};
     if (!options.url || !options.callback) {
@@ -65,3 +65,10 @@ document.body.insertBefore(script, document.body.firstChild);
 function handleResponse(response) {
     // 对response数据进行操作代码
 }
+
+// JSONP的缺点
+// JSONP的缺点主要源自他的script引用资源方式，JSONP的缺点如下：
+
+// JSONP是通过script标签获取资源的，也就是说JSONP注定只能用GET的方式访问资源，GET以外的请求无法做到；
+// JSONP是通过src引用不同源的代码，如果其他域的代码存在恶意代码，那么这将造成严重的网络安全，如果需要跨域的服务器不足以信任，那么必须放弃JSONP；
+// 要确定JSONP请求是否成功，需要启动一个计时器监测数据变动。
