@@ -16,22 +16,23 @@ else if (window.ActiveXObject) {
 
 
 if (xmlhttp != null) {
-    xmlhttp.onreadystatechange = state_Change;//指定响应函数为state_Change
+    xmlhttp.onreadystatechange = function state_Change() {//指定响应函数为state_Change
+        if (xmlhttp.readyState == 4) {
+            if (xmlhttp.status == 200) {
+                // 这里应该是函数具体的逻辑
+                document.getElementById("myDiv").innerHTML = xmlhttp.responseText;//获得字符串形式的响应数据，如果返回的是XML需要单独解析  
+                //responseXML       获得 XML 形式的响应数据  
+                var xmlDoc = xmlhttp.responseXML;  
+                // -------
+            }
+            else {
+                alert("Problem retrieving XML data");
+            }
+        }
+    };
     xmlhttp.open("GET", "/example/xdom/note.xml", true);//指定请求，这里要访问在/example/xdom路径下的note.xml文件，true代表的使用的是异步请求
     xmlhttp.send(null);//发送请求
 }
 else {
     alert("Your browser does not support XMLHTTP.");
-}
-
-//创建具体的响应函数state_Change
-function state_Change() {
-    if (xmlhttp.readyState == 4) {
-        if (xmlhttp.status == 200) {
-            // 这里应该是函数具体的逻辑
-        }
-        else {
-            alert("Problem retrieving XML data");
-        }
-    }
 }
