@@ -23,7 +23,7 @@
 * [前端面试题之css](http://www.cnblogs.com/fanyx/p/6910060.html)
 
 ## JS 算法与数据结构
-
+* [HuangCongQing](https://github.com/HuangCongQing)/**[JS-AlgorithmsAndDataStructure](https://github.com/HuangCongQing/JS-AlgorithmsAndDataStructure)**
 * [hyccpq/js-Data-Structures-and-Algorithms](https://github.com/hyccpq/js-Data-Structures-and-Algorithms)
 * [zouyang1230/JS-algorithms](https://github.com/zouyang1230/JS-algorithms)
 * [matthew-sun/data-structures](https://github.com/matthew-sun/data-structures)
