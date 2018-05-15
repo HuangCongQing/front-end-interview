@@ -14,7 +14,7 @@
 *  [android_interview（计算机网络，操作系统部分）](https://github.com/LRH1993/android_interview)
 * [整理的前端面试的东西](http://blog.csdn.net/qq1024884152/article/details/72831214)
 
-## 基础面试题
+## （html&&CSS）基础面试题（一般大公司很少问到）
 
 *  [超全整理*前端*开发*面试题*——*CSS*篇(2016年)](http://www.360doc.com/content/16/0901/17/35307855_587570473.shtml)
 * [*前端*基础*面试题*(*HTML*+*CSS*部分)](https://zhuanlan.zhihu.com/p/28415923)
