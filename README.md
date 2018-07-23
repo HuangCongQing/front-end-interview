@@ -3,6 +3,8 @@
 
 **本面试问题由[@重庆](https://github.com/HuangCongQing/front-end-interview)汇总**
 
+* [面经](./面经)
+
 ## Github开源面试问题
 *  [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 
